@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250">
+ <defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M 32 0 L 0 0 0 32" fill="none" stroke="#1e2c40" stroke-width=".6"/></pattern><linearGradient id="fade"><stop stop-color="#101b2c"/><stop offset="1" stop-color="#080e18"/></linearGradient></defs>
+ <rect width="1200" height="250" rx="18" fill="url(#fade)"/><rect width="1200" height="250" rx="18" fill="url(#grid)"/>
+ <rect x="42" y="38" width="6" height="174" rx="3" fill="#6ef2c1"/>
+ <text x="70" y="66" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" letter-spacing="4" fill="#6ef2c1">RAMESH YENDURI / ENGINEERING LAB</text>
+ <text x="66" y="132" font-family="DejaVu Sans,Arial,sans-serif" font-size="38" font-weight="700" letter-spacing="-1" fill="#f4f7ff">WEBHOOK INBOX</text>
+ <text x="70" y="182" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" fill="#a3b2c9">PYTHON  /  EXECUTABLE DEMO  /  BEHAVIOR TESTS</text>
+ <circle cx="1070" cy="125" r="73" fill="none" stroke="#6ef2c1" stroke-opacity=".15" stroke-width="22"/>
+ <circle cx="1070" cy="125" r="48" fill="none" stroke="#6ef2c1" stroke-opacity=".5"/>
+ <text x="1070" y="140" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="42" font-weight="700" fill="#6ef2c1">03</text></svg>
